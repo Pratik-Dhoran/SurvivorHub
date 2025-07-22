@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678728325197",
+    "project_id": "survivor-hub-731ad",
+    "storage_bucket": "survivor-hub-731ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678728325197:android:28ef181fc179f538a6e404",
+        "android_client_info": {
+          "package_name": "com.example.survivor_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_nSq_LttYBOFmiMhUmecoYaqZnz8ENs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678728325197:android:85c81f9bfe18a790a6e404",
+        "android_client_info": {
+          "package_name": "com.example.survivorhub_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_nSq_LttYBOFmiMhUmecoYaqZnz8ENs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
